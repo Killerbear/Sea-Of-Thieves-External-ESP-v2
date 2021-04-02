@@ -1,0 +1,120 @@
+{
+    "AActor.HealthComponent": 2200,
+    "AActor.PlayerState": 1096,
+    "AActor.WieldedItemComponent": 2160,
+    "AActor.actorId": 24,
+    "AActor.rootComponent": 360,
+    "ABootyItemInfo.BootyType": 1392,
+    "ABootyItemInfo.Rarity": 1772,
+    "ACrewService.Crews": 1520,
+    "AFauna.Name": 2136,
+    "AItemInfo.UItemDesc": 1152,
+    "AItemProxy.AItemInfo": 1544,
+    "AMapTable.MapPins": 1304,
+    "AMapTable.ServerCenter": 1272,
+    "AMapTable.TrackedShips": 1244,
+    "APlayerCameraManager.CameraCache": 1184,
+    "APlayerController.CameraManager": 1208,
+    "APlayerController.ControlRotation": 684,
+    "APlayerController.Pawn": 1072,
+    "APlayerState.PlayerName": 1072,
+    "AShip.CrewOwnershipComponent": 1952,
+    "AWieldableItem.ItemInfo": 1504,
+    "ESP.Animals.bActive": false,
+    "ESP.Animals.bChicken": false,
+    "ESP.Animals.bPig": false,
+    "ESP.Animals.bSnake": false,
+    "ESP.Player.bActive": false,
+    "ESP.Player.bHealth": false,
+    "ESP.Player.bName": false,
+    "ESP.Player.bTeam": false,
+    "ESP.Player.bWeapon": false,
+    "ESP.Player.colorEnemy": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.Player.colorTeam": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.Ships.bActive": false,
+    "ESP.Ships.colorEnemy": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.Ships.colorTeam": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.Skeleton.bActive": false,
+    "ESP.Skeleton.bWeapon": false,
+    "ESP.Skeleton.colorSkeleton": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.Treasure.bActive": false,
+    "ESP.World.bFort": false,
+    "ESP.World.bIslands": false,
+    "ESP.World.bMapPins": true,
+    "ESP.World.bMermaid": false,
+    "ESP.World.bShipWreck": false,
+    "ESP.World.colorWorld": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.colorCommon": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.colorLegendary": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.colorMythical": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.colorOther": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.colorRare": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "ESP.colorSpecial": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0
+    },
+    "GUI": true,
+    "UCrewOwnershipComponent.CrewId": 212,
+    "UGameInstance.LocalPlayers": 56,
+    "ULocalPlayer.PlayerController": 48,
+    "UWieldedItemComponent.WieldedItem": 656,
+    "UWorld.OwningGameInstance": 448,
+    "UWorld.PersistentLevel": 48
+}
